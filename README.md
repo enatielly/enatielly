@@ -5,8 +5,8 @@
 
 <br/>
 
-<!-- TYPING ANIMATION (retro font) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=500&color=F7E018&center=true&vCenter=true&random=false&width=650&height=30&lines=%3E+SELECT+*+FROM+enatielly;+Python;+Analytics;+GIS;+SQL;+PhD+Student+in+Computer+Science;+PhD+in+Oceanography;+Geographer)](https://git.io/typing-svg)
+<!-- ANIMATED SELECT RESULT -->
+<img src="./assets/select-result.svg" alt="SELECT * FROM enatielly" width="650"/>
 
 <!-- ANIMATED DIVIDER -->
 <img src="./assets/divider.svg" alt="divider" width="600"/>
