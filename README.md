@@ -5,8 +5,20 @@
 
 <br/>
 
-<!-- ANIMATED SELECT + RESULT -->
-<img src="./assets/select-result.svg" alt="SELECT * FROM enatielly" width="650"/>
+<!-- TYPING ANIMATION (retro font) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=800&color=F7E018&center=true&vCenter=true&random=false&width=650&height=30&lines=%3E+SELECT+*+FROM+enatielly;)](https://git.io/typing-svg)
+
+```
+Python
+Analytics
+GIS
+SQL
+PhD Student in Computer Science
+PhD in Oceanography
+Geographer
+
+7 rows in set (0.00 sec)
+```
 
 <!-- ANIMATED DIVIDER -->
 <img src="./assets/divider.svg" alt="divider" width="600"/>
