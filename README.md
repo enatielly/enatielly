@@ -1,28 +1,19 @@
 <div align="center">
 
-<!-- HEADER 8-BIT -->
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗     ██╗
-  ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗   ███║
-  ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝   ╚██║
-  ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗    ██║
-  ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║    ██║
-  ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═╝
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+<!-- ANIMATED PAC-MAN HEADER: Pac-Man chasing ghosts -->
+<img src="./assets/pacman.svg" alt="Pac-Man Animation" width="600"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F7E018&center=true&vCenter=true&random=false&width=600&lines=SELECT+*+FROM+enatielly;Python+%7C+Analytics+%7C+GIS+%7C+SQL;PhD+Student+in+Computer+Science;PhD+in+Oceanography;Geographer)](https://git.io/typing-svg)
+<br/>
 
-<!-- PAC-MAN DIVIDER -->
-```
-╔══════════════════════════════════════════════════════════╗
-║  ᗧ···ᗣ···ᗣ···ᗣ·····ᗣ···ᗣ···ᗣ···ᗣ·····ᗣ···ᗣ···ᗣ···  ║
-╚══════════════════════════════════════════════════════════╝
-```
+<!-- TYPING ANIMATION (retro font) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=F7E018&center=true&vCenter=true&multiline=true&random=false&width=620&height=80&lines=SELECT+*+FROM+enatielly;Python+%7C+Analytics+%7C+GIS+%7C+SQL;PhD+Student+in+Computer+Science;PhD+in+Oceanography+%7C+Geographer)](https://git.io/typing-svg)
+
+<!-- ANIMATED DIVIDER -->
+<img src="./assets/divider.svg" alt="divider" width="600"/>
 
 </div>
+
+<br/>
 
 ## About Me
 
@@ -43,25 +34,34 @@ class Enatielly:
         return "Leveling up in Computer Science"
 ```
 
-## Stats
+<div align="center">
+<img src="./assets/divider.svg" alt="divider" width="600"/>
+</div>
 
-<!-- PAC-MAN EATING DOTS -->
-```
-ᗧ · · · · · · · · · · · · STATS · · · · · · · · · · · · ᗣ
-```
+## Stats
 
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=enatielly&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7E018&icon_color=F7E018&text_color=FFFFFF&ring_color=F7E018" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enatielly&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7E018&text_color=FFFFFF" />
 
+<br/><br/>
+
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=enatielly&theme=highcontrast&hide_border=true&background=0D1117&ring=F7E018&fire=F7E018&currStreakLabel=F7E018&sideLabels=F7E018&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enatielly&bg_color=0d1117&color=F7E018&line=F7E018&point=FFFFFF&area=true&area_color=F7E018&hide_border=true" width="95%" alt="Activity Graph"/>
+
+</div>
+
+<div align="center">
+<img src="./assets/divider.svg" alt="divider" width="600"/>
 </div>
 
 ## Tech & Tools
-
-```
-ᗧ · · · · · · · · · · · · SKILLS · · · · · · · · · · · · ᗣ
-```
 
 <div align="center">
 
@@ -74,11 +74,11 @@ class Enatielly:
 
 </div>
 
-## Connect
+<div align="center">
+<img src="./assets/divider.svg" alt="divider" width="600"/>
+</div>
 
-```
-ᗧ · · · · · · · · · · · · LINKS · · · · · · · · · · · · ᗣ
-```
+## Connect
 
 <div align="center">
 
@@ -91,12 +91,13 @@ class Enatielly:
 
 <div align="center">
 
+<!-- ANIMATED PAC-MAN FOOTER -->
+<img src="./assets/pacman.svg" alt="Pac-Man Animation" width="600"/>
+
+<br/>
+
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║          ᗧ · · · GAME OVER? NEVER! · · · ᗣ              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+GAME OVER? NEVER!
 ```
 
 [![Visits](https://komarev.com/ghpvc/?username=enatielly&color=F7E018&style=for-the-badge&label=VISITORS)](https://github.com/enatielly)
