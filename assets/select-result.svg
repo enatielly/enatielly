@@ -1,53 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="210" viewBox="0 0 650 210">
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="240" viewBox="0 0 650 240">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P');
     text {
       font-family: 'Press Start 2P', monospace;
       font-size: 12px;
     }
+    .query { fill: #F7E018; }
     .attr { fill: #FFFFFF; }
     .info { fill: #F7E018; font-size: 10px; }
   </style>
 
-  <!-- Attributes appearing one by one and staying -->
-  <text x="20" y="25" class="attr">
+  <!-- SELECT query typing effect using clip-path -->
+  <defs>
+    <clipPath id="typewriter">
+      <rect x="0" y="0" height="30" width="0">
+        <animate attributeName="width" values="0;0;420;420" keyTimes="0;0.01;0.12;1" dur="14s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Cursor blinking -->
+  <rect y="8" width="10" height="18" fill="#F7E018">
+    <animate attributeName="x" values="20;20;420;420" keyTimes="0;0.01;0.12;1" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.12;0.13;1" dur="14s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="20" y="25" class="query" clip-path="url(#typewriter)">&gt; SELECT * FROM enatielly;</text>
+
+  <!-- Attributes appearing one by one AFTER the query finishes typing -->
+  <text x="20" y="60" class="attr" opacity="0">
     Python
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05;0.06;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.15;0.16;0.88;0.92" dur="14s" repeatCount="indefinite"/>
   </text>
 
-  <text x="20" y="50" class="attr">
+  <text x="20" y="85" class="attr" opacity="0">
     Analytics
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.12;0.13;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.23;0.88;0.92" dur="14s" repeatCount="indefinite"/>
   </text>
 
-  <text x="20" y="75" class="attr">
+  <text x="20" y="110" class="attr" opacity="0">
     GIS
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.19;0.20;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.29;0.30;0.88;0.92" dur="14s" repeatCount="indefinite"/>
   </text>
 
-  <text x="20" y="100" class="attr">
+  <text x="20" y="135" class="attr" opacity="0">
     SQL
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26;0.27;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.36;0.37;0.88;0.92" dur="14s" repeatCount="indefinite"/>
   </text>
 
-  <text x="20" y="125" class="attr">
+  <text x="20" y="160" class="attr" opacity="0">
     PhD Student in Computer Science
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.33;0.34;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.43;0.44;0.88;0.92" dur="14s" repeatCount="indefinite"/>
   </text>
 
-  <text x="20" y="150" class="attr">
+  <text x="20" y="185" class="attr" opacity="0">
     PhD in Oceanography
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.41;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.51;0.88;0.92" dur="14s" repeatCount="indefinite"/>
   </text>
 
-  <text x="20" y="175" class="attr">
+  <text x="20" y="210" class="attr" opacity="0">
     Geographer
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.47;0.48;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.57;0.58;0.88;0.92" dur="14s" repeatCount="indefinite"/>
   </text>
 
-  <!-- "7 rows in set" appears last, then everything resets -->
-  <text x="20" y="205" class="info">
+  <!-- "7 rows in set" appears last -->
+  <text x="20" y="238" class="info" opacity="0">
     7 rows in set (0.00 sec)
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.56;0.90;0.91" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.65;0.66;0.88;0.92" dur="14s" repeatCount="indefinite"/>
   </text>
 </svg>
