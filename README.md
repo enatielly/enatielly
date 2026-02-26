@@ -42,8 +42,8 @@ class Enatielly:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=enatielly&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7E018&icon_color=F7E018&text_color=FFFFFF&ring_color=F7E018" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enatielly&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7E018&text_color=FFFFFF" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enatielly&theme=github_dark" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enatielly&theme=github_dark" />
 
 <br/><br/>
 
