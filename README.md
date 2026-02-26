@@ -13,7 +13,7 @@
 ```
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F7E018&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8E%AE+SELECT+*+FROM+enatielly;+%F0%9F%8E%AE;Python+%7C+Analytics+%7C+GIS+%7C+SQL;PhD+Student+in+Computer+Science;PhD+in+Oceanography+%F0%9F%8C%8A;Geographer+%F0%9F%97%BA%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F7E018&center=true&vCenter=true&random=false&width=600&lines=SELECT+*+FROM+enatielly;Python+%7C+Analytics+%7C+GIS+%7C+SQL;PhD+Student+in+Computer+Science;PhD+in+Oceanography;Geographer)](https://git.io/typing-svg)
 
 <!-- PAC-MAN DIVIDER -->
 ```
@@ -24,26 +24,26 @@
 
 </div>
 
-## 🕹️ About Me
+## About Me
 
 ```python
 class Enatielly:
     def __init__(self):
         self.role      = "PhD Student in Computer Science"
         self.education = [
-            "🎓 PhD in Oceanography",
-            "🎓 M.Sc. in Oceanography",
-            "🗺️ Geographer"
+            "PhD in Oceanography",
+            "M.Sc. in Oceanography",
+            "Geographer"
         ]
         self.interests = ["Formal Methods", "Statistics", "GIS", "Analytics"]
         self.tools     = ["Python", "SQL", "Docker"]
-        self.fun_fact  = "I map oceans AND databases 🌊🗄️"
+        self.fun_fact  = "I map oceans AND databases"
 
     def current_quest(self):
-        return "Leveling up in Computer Science 🎮"
+        return "Leveling up in Computer Science"
 ```
 
-## 🏆 Stats
+## Stats
 
 <!-- PAC-MAN EATING DOTS -->
 ```
@@ -57,7 +57,7 @@ class Enatielly:
 
 </div>
 
-## ⚡ Tech & Tools
+## Tech & Tools
 
 ```
 ᗧ · · · · · · · · · · · · SKILLS · · · · · · · · · · · · ᗣ
@@ -74,7 +74,7 @@ class Enatielly:
 
 </div>
 
-## 🌊 Connect
+## Connect
 
 ```
 ᗧ · · · · · · · · · · · · LINKS · · · · · · · · · · · · ᗣ
