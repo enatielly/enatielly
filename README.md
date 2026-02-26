@@ -6,7 +6,19 @@
 <br/>
 
 <!-- TYPING ANIMATION (retro font) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=F7E018&center=true&vCenter=true&multiline=true&random=false&width=620&height=80&lines=SELECT+*+FROM+enatielly;Python+%7C+Analytics+%7C+GIS+%7C+SQL;PhD+Student+in+Computer+Science;PhD+in+Oceanography+%7C+Geographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=800&color=F7E018&center=true&vCenter=true&random=false&width=650&height=30&lines=%3E+SELECT+*+FROM+enatielly+WHERE+available+%3D+true;)](https://git.io/typing-svg)
+
+```
++----+-----------+--------------------+-----------+----------+-------+
+| id | nome      | role               | area      | tools    | avail |
++----+-----------+--------------------+-----------+----------+-------+
+|  1 | Enatielly | PhD Student in CS  | Formal    | Python   | true  |
+|    |           | PhD in Oceanograph | Methods,  | SQL,     |       |
+|    |           | M.Sc. in Oceanogr. | Stats,    | Docker,  |       |
+|    |           | Geographer         | GIS       | QGIS     |       |
++----+-----------+--------------------+-----------+----------+-------+
+1 row in set (0.00 sec)
+```
 
 <!-- ANIMATED DIVIDER -->
 <img src="./assets/divider.svg" alt="divider" width="600"/>
